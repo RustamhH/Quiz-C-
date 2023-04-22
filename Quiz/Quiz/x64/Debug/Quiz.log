@@ -1,0 +1,10 @@
+﻿  Quiz.cpp
+D:\OOP C++\Quiz\Quiz\interface.h(29,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP C++\Quiz\Quiz\person.h(135,47): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\OOP C++\Quiz\Quiz\person.h(204,35): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+D:\OOP C++\Quiz\Quiz\person.h(252,27): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Quiz.vcxproj -> D:\OOP C++\Quiz\x64\Debug\Quiz.exe

@@ -1,0 +1,2 @@
+hasanhttps:1234567890:Quiz1.txt:0:2:0;100-
+Ibis:IbrahimCik:Quiz1.txt:1:0:1;0-
